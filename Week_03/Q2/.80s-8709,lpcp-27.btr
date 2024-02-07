@@ -1,0 +1,12 @@
+
+:8709 terminated with signal 11 at PC=7fbba69a08ca SP=7ffef0f90ed8.  Backtrace:
+/lib/x86_64-linux-gnu/libc.so.6(+0x1a08ca)[0x7fbba69a08ca]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x217c7b)[0x7fbba6e17c7b]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x234dd8)[0x7fbba6e34dd8]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x23530f)[0x7fbba6e3530f]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1a5337)[0x7fbba6da5337]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1f2948)[0x7fbba6df2948]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1f2ac3)[0x7fbba6df2ac3]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1f2cde)[0x7fbba6df2cde]
+/lib/x86_64-linux-gnu/libmpich.so.12(PMPI_Scatter+0x566)[0x7fbba6ca2476]
+[0x559cdae8e4b2]

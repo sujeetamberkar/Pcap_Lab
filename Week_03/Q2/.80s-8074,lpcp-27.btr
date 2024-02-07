@@ -1,0 +1,12 @@
+
+:8074 terminated with signal 11 at PC=7f70da7a08ca SP=7ffeb3fce758.  Backtrace:
+/lib/x86_64-linux-gnu/libc.so.6(+0x1a08ca)[0x7f70da7a08ca]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x217c7b)[0x7f70dac17c7b]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x234dd8)[0x7f70dac34dd8]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x23530f)[0x7f70dac3530f]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1a5337)[0x7f70daba5337]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1f2948)[0x7f70dabf2948]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1f2ac3)[0x7f70dabf2ac3]
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x1f2cde)[0x7f70dabf2cde]
+/lib/x86_64-linux-gnu/libmpich.so.12(PMPI_Scatter+0x566)[0x7f70daaa2476]
+[0x55c8326df4b2]
