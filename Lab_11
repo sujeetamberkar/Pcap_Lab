@@ -1,0 +1,18 @@
+4)On 3rd april 2024, again we will ask batch-2 to come for the lab instead of batch-1 because their batch-2 on 6th april will be getting canceled because of Utsav.  they will do the following programs:
+i)Write a program in CUDA to perform tiled matrix multiplication using 2D Grid and 2D Block
+
+ii) Write a program in CUDA to improve the performance of 1D parallel convolution using constant Memory.
+
+iii) Write a program in CUDA to perform tiled 1D convolution operation on the input array N of size width using the mask array, M of size mask_width, to produce the resultant array P of size width.
+
+5) on 10th April , as usual batch-1 will come and do the following programs:
+
+i)Write a program in CUDA to perform tiled matrix multiplication using 2D Grid and 2D Block
+
+ii) Write a program in CUDA to improve the performance of 1D parallel convolution using constant Memory.
+
+iii) Write a program in CUDA to perform tiled 1D convolution operation on the input array N of size width using the mask array, M of size mask_width, to produce the resultant array P of size width.
+
+6) on 13th April, we will have endsem for batch-2.
+
+7) on 17th April, we will have endsem for batch-1
